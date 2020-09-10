@@ -6,7 +6,7 @@
 <li><code>git clone https://github.com/FadilahXp/DarkFbPremium</code></li>
 <li><code>cd DarkFbPremium</code></li>
 <li><code>pip2 install -r requirements.txt</code></li>
-<li><code>python2 DarkPremium.py</code></li>
+<li><code>python2 DarkFB.py</code></li>
 </ul>
 <br />
 <br />
